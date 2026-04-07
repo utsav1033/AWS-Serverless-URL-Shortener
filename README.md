@@ -2,7 +2,7 @@
 
 A production-ready Bitly-style URL shortening service built entirely on AWS serverless architecture.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)]
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://url-shortener-frontend-1003.s3.us-east-1.amazonaws.com/index.html)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com)
 [![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)](https://python.org)
 
